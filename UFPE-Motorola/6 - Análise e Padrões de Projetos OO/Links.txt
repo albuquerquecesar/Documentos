@@ -1,0 +1,5 @@
+PDFs de Analise e Padroes de Projetos OO: 
+http://www.cin.ufpe.br/~if718/transparencias/pdf/
+
+Padrões:
+http://www.pg.cefetpr.br/coinf/simone/patterns/facade.php
